@@ -24,28 +24,25 @@ To get a local copy up and running follow these simple steps.
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/yourusername/Medicine-Dose-master.git
-Open the project in Android Studio:
 
-Launch Android Studio.
-Click on Open an existing Android Studio project.
-Navigate to the cloned repository directory and select it.
-Build the project:
-
-Let Android Studio download and install any necessary dependencies.
-Once the setup is complete, build the project to ensure everything is configured correctly.
-Run the application:
-
-Connect an Android device or start an emulator.
-Click on the Run button in Android Studio to deploy the app.
+2.	Open the project in Android Studio:
+o	Launch Android Studio.
+o	Click on Open an existing Android Studio project.
+o	Navigate to the cloned repository directory and select it.
+3.	Build the project:
+o	Let Android Studio download and install any necessary dependencies.
+o	Once the setup is complete, build the project to ensure everything is configured correctly.
+4.	Run the application:
+o	Connect an Android device or start an emulator.
+o	Click on the Run button in Android Studio to deploy the app.
 Usage
-Adding a Medication:
+1.	Adding a Medication:
+o	Open the app and navigate to the Add Medication section.
+o	Enter the medication name, dosage, frequency, and start time.
+o	Save the medication to set reminders.
+2.	Viewing Medication History:
+o	Navigate to the History section to view your medication intake history.
+3.	Receiving Notifications:
+o	Ensure notifications are enabled to receive reminders when it's time to take your medication.
 
-Open the app and navigate to the Add Medication section.
-Enter the medication name, dosage, frequency, and start time.
-Save the medication to set reminders.
-Viewing Medication History:
 
-Navigate to the History section to view your medication intake history.
-Receiving Notifications:
-
-Ensure notifications are enabled to receive reminders when it's time to take your medication.
